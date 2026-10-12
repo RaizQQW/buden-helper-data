@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "published_at": "2026-10-12T14:05:12Z",
+ "files": {
+  "draft_models/HOB.roles.json": {
+   "sha256": "e3c87ece221ce2d172c0e364768c298f7cc6161ff804fd1d6df55ed26747e432",
+   "size": 10281,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-e3c87ece221c.roles.json"
+  },
+  "draft_models/HOB.safetensors": {
+   "sha256": "5cee7bda64bdcb973ef477c2d99bf115111db5f560912ad450d0e7902b10ad77",
+   "size": 10521384,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-5cee7bda64bd.safetensors"
+  },
+  "draft_models/MSH.roles.json": {
+   "sha256": "c911512ff59d34c06b2824c8c5db28fd64da145796a51bca274e9294290d2112",
+   "size": 16688,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-c911512ff59d.roles.json"
+  },
+  "draft_models/MSH.safetensors": {
+   "sha256": "cc62954262c051867c26d0610b371d9054a644e9bceb69339b855734176f37c3",
+   "size": 10113652,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-cc62954262c0.safetensors"
+  },
+  "draft_models/SOS.roles.json": {
+   "sha256": "faccf3f06aa23efe49f102c975ca11a5ec1c863597db994dbe0bf9e8935c79a1",
+   "size": 15876,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/SOS-faccf3f06aa2.roles.json"
+  },
+  "draft_models/SOS.safetensors": {
+   "sha256": "357e9f1c96c1099cb9bd6141c638b71fcaa3d600650de15697e8532cab4012ab",
+   "size": 10168280,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/SOS-357e9f1c96c1.safetensors"
+  },
+  "draft_replays/HOB.json": {
+   "sha256": "e1aeaf9c6582fd2c53d4246134dc800fc987fd5e2a208d07f6e4a8e399d69589",
+   "size": 252838,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-e1aeaf9c6582.replays.json"
+  },
+  "draft_replays/MSH.json": {
+   "sha256": "5801e4c43a1b59efed5d8a6afebe57ec01adf8b6c3f166873246b7df40687883",
+   "size": 268245,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-5801e4c43a1b.replays.json"
+  },
+  "draft_replays/SOS.json": {
+   "sha256": "694688a393745127b34826144aee39bd3d04716656e0972284a16ab01a4adb7e",
+   "size": 269018,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/SOS-694688a39374.replays.json"
+  }
+ }
+}
