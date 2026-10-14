@@ -8,7 +8,6 @@ be edited by hand: the files are written by a scheduled build and by the maintai
 | `metagame/<format>.json` | Metagame snapshots for Standard, Pioneer, Historic and Timeless: the decks that are played, their share and their lists. The app guesses the opponent's deck from them. | A daily build |
 | `metagame/index.json` | The snapshots with their checksums | The same build |
 | `models/index.json` | The draft models, roles files and replay drafts per set, with their checksums and addresses | `python -m draftbot.publish` |
-| `playgroup/runs.json`, `playgroup/index.json` | The playgroup's draft and sealed runs, from the players who chose to be listed, under the name they chose | The same daily build, from the group's Discord channel |
 | Release [`models`](https://github.com/RaizQQW/buden-helper-data/releases/tag/models) | The files `models/index.json` points at, named by checksum | The same script |
 
 The app reads the two indexes, compares each checksum with the one it took last, and downloads what changed.
@@ -29,10 +28,6 @@ A path under `files` in an index is the file's place in the app's config folder.
   [17lands public datasets](https://www.17lands.com/public_datasets), licensed under
   [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). They are offered here under CC BY 4.0, with
   credit to 17lands.
-
-- **The playgroup's runs** are posted by the players themselves, who switched this on in the app and picked
-  the name they appear under. A player who deletes a post in the group's channel is removed with the next
-  build.
 
 Buden-Helper is unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not
 approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast.
