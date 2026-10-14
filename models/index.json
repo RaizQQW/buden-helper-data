@@ -1,11 +1,11 @@
 {
  "version": 1,
- "published_at": "2026-10-14T15:03:20Z",
+ "published_at": "2026-10-14T16:37:39Z",
  "files": {
   "draft_models/FRA.roles.json": {
-   "sha256": "25252bed388d2a82a74fa331dd15970eb88936727fdd7a82c630b3b0341ba7d4",
-   "size": 12513,
-   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/FRA-25252bed388d.roles.json"
+   "sha256": "40b9d6eef5a23e64d4417ae2c5743d5051b1908f56090d66744abf02df7afcbd",
+   "size": 51782,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/FRA-40b9d6eef5a2.roles.json"
   },
   "draft_models/FRA.safetensors": {
    "sha256": "09d723c084994bfbfbd2b531882c9b7355cfcac64570952b6c7c9a8aef9552ff",
@@ -13,9 +13,9 @@
    "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/FRA-09d723c08499.safetensors"
   },
   "draft_models/HOB.roles.json": {
-   "sha256": "e3c87ece221ce2d172c0e364768c298f7cc6161ff804fd1d6df55ed26747e432",
-   "size": 10281,
-   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-e3c87ece221c.roles.json"
+   "sha256": "7cabb24968a33ff3345606769f746e439a5a1891e538a948a4499ec25badbde5",
+   "size": 39526,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-7cabb24968a3.roles.json"
   },
   "draft_models/HOB.safetensors": {
    "sha256": "5cee7bda64bdcb973ef477c2d99bf115111db5f560912ad450d0e7902b10ad77",
@@ -23,9 +23,9 @@
    "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/HOB-5cee7bda64bd.safetensors"
   },
   "draft_models/MSH.roles.json": {
-   "sha256": "c911512ff59d34c06b2824c8c5db28fd64da145796a51bca274e9294290d2112",
-   "size": 16688,
-   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-c911512ff59d.roles.json"
+   "sha256": "bbf9787bbbda8df7497fe3695ef5ff82bbd79622eac0e7bb9e9951389740878f",
+   "size": 61385,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-bbf9787bbbda.roles.json"
   },
   "draft_models/MSH.safetensors": {
    "sha256": "cc62954262c051867c26d0610b371d9054a644e9bceb69339b855734176f37c3",
@@ -33,9 +33,9 @@
    "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/MSH-cc62954262c0.safetensors"
   },
   "draft_models/SOS.roles.json": {
-   "sha256": "faccf3f06aa23efe49f102c975ca11a5ec1c863597db994dbe0bf9e8935c79a1",
-   "size": 15876,
-   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/SOS-faccf3f06aa2.roles.json"
+   "sha256": "1c15638c735368c2b6d337f62f31efbbff97405138e515075ce33060af52dd62",
+   "size": 35403,
+   "url": "https://github.com/RaizQQW/buden-helper-data/releases/download/models/SOS-1c15638c7353.roles.json"
   },
   "draft_models/SOS.safetensors": {
    "sha256": "357e9f1c96c1099cb9bd6141c638b71fcaa3d600650de15697e8532cab4012ab",
