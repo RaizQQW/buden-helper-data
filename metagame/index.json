@@ -2,41 +2,41 @@
  "version": 1,
  "formats": {
   "standard": {
-   "built_at": "2026-11-03T11:59:41Z",
-   "lists": 3773,
-   "archetypes": 143
+   "built_at": "2026-11-04T12:15:07Z",
+   "lists": 3772,
+   "archetypes": 142
   },
   "pioneer": {
-   "built_at": "2026-11-03T11:59:41Z",
-   "lists": 489,
+   "built_at": "2026-11-04T12:15:07Z",
+   "lists": 493,
    "archetypes": 78
   },
   "historic": {
-   "built_at": "2026-11-03T11:59:41Z",
+   "built_at": "2026-11-04T12:15:07Z",
    "lists": 16,
    "archetypes": 16
   },
   "timeless": {
-   "built_at": "2026-11-03T11:59:41Z",
+   "built_at": "2026-11-04T12:15:07Z",
    "lists": 21,
    "archetypes": 21
   }
  },
  "files": {
   "metagame/standard.json": {
-   "sha256": "7240e4049831743d8ff834e9af21a62a1b9dd94f03d85d575e6e29dd98e251b6",
-   "size": 1071033
+   "sha256": "c55c481c287337c84e48668af345baf0341ceaa7403ef2923ca8ce7e6f630ef4",
+   "size": 1070011
   },
   "metagame/pioneer.json": {
-   "sha256": "96cfdac1b1fd4b548610fe6fa08e785232ab2c5baf24f6f183358eb03227887f",
-   "size": 156833
+   "sha256": "0dcce8d7af8567dc93621a9b7ca7cc7d28cc79cef2f2ba41128c3073438b49e5",
+   "size": 157893
   },
   "metagame/historic.json": {
-   "sha256": "f1a89d8692d553bb5ec07a50f5c025f12ba804ceebb0e19c860ad1cd3d2da5f2",
+   "sha256": "bd14767473720f2f94c76d7fe95e4e4ec1a65e20857e6642a7e7b58e92a16993",
    "size": 10913
   },
   "metagame/timeless.json": {
-   "sha256": "f6896f0dba67d3c2f23322c37f783692dc85df779cca1603ea4ad0b4f3b08821",
+   "sha256": "307d0231807889c78e0270fe4b8d70b18517ec8d4ab511f382773af1eaadc27b",
    "size": 11636
   }
  }
