@@ -1,0 +1,213 @@
+{
+ "set": "MBC",
+ "roles": {
+  "Arzakon": [],
+  "Ashaya's Enduring Bond": [],
+  "Autumn Willow, Harmony": [
+   "tokens"
+  ],
+  "Balefang the Unslayable": [
+   "evasion"
+  ],
+  "Blor the Impervious": [],
+  "Boss Uramon, Shadow's Reach": [
+   "evasion",
+   "tokens"
+  ],
+  "Case of the Lost Witness": [
+   "card_advantage"
+  ],
+  "Chaos Warp": [
+   "removal"
+  ],
+  "Chief Magistrate of Mercadia": [
+   "tokens"
+  ],
+  "Chira, All In": [
+   "mana"
+  ],
+  "Chromatic Lantern": [
+   "mana"
+  ],
+  "Davvol, Evincar of Rath": [
+   "mana"
+  ],
+  "Dragon's Smile": [],
+  "Dust to Dust": [],
+  "Dyfed, the Guiding Hand": [],
+  "Ekthi, Contaminator Priest": [],
+  "Elda, Conjurer of Spectacle": [],
+  "Emerald Collector": [
+   "card_advantage"
+  ],
+  "Euru, Acorn Scrounger": [],
+  "Exotic Orchard": [
+   "mana"
+  ],
+  "Fellwar Stone": [
+   "mana"
+  ],
+  "Feroz, Ulgrotha's Warden": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Flitwing, Lyev Detective": [
+   "evasion"
+  ],
+  "Glava, Five-Advents Mage": [],
+  "Grakk the Pacifist": [
+   "card_advantage"
+  ],
+  "Grandmother Goby": [
+   "tokens"
+  ],
+  "Greensleeves": [
+   "card_advantage"
+  ],
+  "Grizzlegom, Hurloon Hero": [
+   "card_advantage",
+   "tokens",
+   "lifegain"
+  ],
+  "Gustha Ebbasdotter": [
+   "card_advantage"
+  ],
+  "Homer, the Hermit": [],
+  "Istvan, Butcher of Eln": [],
+  "Itazura, Lingering Wick": [],
+  "Jabs, Mistress of Mockery": [],
+  "Jandor, Fortuned Traveler": [
+   "card_advantage"
+  ],
+  "Jet Collector": [],
+  "Jeweled Amulet": [
+   "mana"
+  ],
+  "Joven and Chandler": [],
+  "Kuroki, Thief of Talents": [
+   "card_advantage",
+   "evasion"
+  ],
+  "Lyna, Veil of Vengeance": [
+   "card_advantage",
+   "evasion"
+  ],
+  "Massimo, the Magician": [],
+  "Matoc, Lavamancer": [
+   "card_advantage"
+  ],
+  "Maular, the Next Evolution": [],
+  "Meatsqueak, Hoard Lord": [],
+  "Mind Stone": [
+   "card_advantage",
+   "mana"
+  ],
+  "Miss Highwater": [
+   "evasion"
+  ],
+  "Nephilim Epochal": [],
+  "Nivea, Beloved Battlemage": [],
+  "Olag and Miau, New Friends": [],
+  "Olinda the Oblivious": [],
+  "Oracle of the Alpha": [
+   "evasion"
+  ],
+  "Overcooked": [],
+  "Path of Ancestry": [
+   "mana"
+  ],
+  "Pearl Collector": [
+   "lifegain"
+  ],
+  "Perforator Crocodile": [],
+  "Rikala, Homarid King": [],
+  "Ruby Collector": [],
+  "Sahir, Visitor in Darkness": [
+   "card_advantage"
+  ],
+  "Sapphire Collector": [],
+  "Sash and Waistcoat, Unmen": [],
+  "Selenia, the Cursed Heart": [
+   "evasion",
+   "lifegain"
+  ],
+  "Seluma, Light of Aysen": [
+   "evasion"
+  ],
+  "Sifa Grent": [
+   "lifegain"
+  ],
+  "Swiftfoot Boots": [],
+  "The Everforger": [],
+  "The Madcap Jester": [],
+  "The Muckslinger Gang": [],
+  "The Unluckiest Planeswalker": [
+   "card_advantage",
+   "mana",
+   "tokens"
+  ],
+  "The Weaver King": [
+   "evasion"
+  ],
+  "Thomil, the Destroyer": [
+   "mana",
+   "tokens"
+  ],
+  "Thought Vessel": [
+   "mana"
+  ],
+  "Tolabow, Loch Rascal": [
+   "tokens"
+  ],
+  "Tresserhorn's Lord, Returned": [
+   "card_advantage"
+  ],
+  "Tsagan, Raider Warlord": [],
+  "Uugguu, the Omniplasm": [
+   "tokens"
+  ],
+  "Valko Indorian": [
+   "evasion",
+   "lifegain"
+  ],
+  "Venser, Visionary Traveler": [],
+  "Whtz, the Bibliophile": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Worzel, the Protector": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Yume, Chronicler of Valor": [
+   "card_advantage"
+  ],
+  "Zagorka, Mother of Sanctum": [
+   "mana"
+  ]
+ },
+ "flash": [],
+ "mana_sources": {
+  "Chromatic Lantern": {
+   "colours": "WUBRG",
+   "amount": 1
+  },
+  "Fellwar Stone": {
+   "colours": "WUBRG",
+   "amount": 1
+  },
+  "Mind Stone": {
+   "colours": "",
+   "amount": 1
+  },
+  "Thought Vessel": {
+   "colours": "",
+   "amount": 1
+  }
+ },
+ "arena_ids": {},
+ "arena_sets": [
+  "MBC"
+ ],
+ "generated_at": "2026-11-14T10:42:23Z"
+}

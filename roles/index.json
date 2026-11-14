@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "published_at": "2026-11-14T10:42:23Z",
+ "files": {
+  "draft_roles/MBC.roles.json": {
+   "sha256": "c23eff2e6e362756c5747b263bedcda2c53bab1444da528444fed395f852ef8d",
+   "size": 3775,
+   "url": "https://raw.githubusercontent.com/RaizQQW/buden-helper-data/main/roles/MBC.roles.json"
+  },
+  "draft_roles/TRK.roles.json": {
+   "sha256": "236e80c1560d5821cb21dccd6822cbba48defa2522bc9a1fb96003e6c40b7913",
+   "size": 14140,
+   "url": "https://raw.githubusercontent.com/RaizQQW/buden-helper-data/main/roles/TRK.roles.json"
+  }
+ }
+}

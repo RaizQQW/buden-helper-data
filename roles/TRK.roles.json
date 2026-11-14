@@ -1,0 +1,815 @@
+{
+ "set": "TRK",
+ "roles": {
+  "70,000 Light-Years from Home": [
+   "removal"
+  ],
+  "A Good Day to Die": [
+   "card_advantage",
+   "trick"
+  ],
+  "Academy Instructor": [
+   "tokens"
+  ],
+  "Adversary by Algorithm": [
+   "tokens"
+  ],
+  "All Good Things...": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Amok Time": [
+   "removal",
+   "card_advantage",
+   "lifegain"
+  ],
+  "Andoria": [
+   "mana",
+   "lifegain"
+  ],
+  "Andromedan Automatons": [],
+  "Antagonist Incorporator": [
+   "tokens"
+  ],
+  "Anthropological Mission": [
+   "card_advantage"
+  ],
+  "Armus, Skin of Evil": [
+   "removal",
+   "evasion"
+  ],
+  "Artificial Anomaly": [
+   "mana",
+   "lifegain"
+  ],
+  "Assault Drone": [],
+  "Assembly Specialist": [
+   "tokens"
+  ],
+  "Astute Terraformer": [],
+  "Automated Warfare System": [
+   "card_advantage",
+   "evasion"
+  ],
+  "Bajor": [
+   "mana",
+   "lifegain"
+  ],
+  "Bat'leth": [
+   "removal"
+  ],
+  "Battle-Scarred Survivalist": [
+   "evasion"
+  ],
+  "Beckett Mariner, Impetuous Ensign": [],
+  "Blastoneuron": [
+   "removal",
+   "evasion",
+   "lifegain"
+  ],
+  "Blood Crypt": [],
+  "Boarding Action": [
+   "tokens"
+  ],
+  "Borg Cube": [
+   "removal"
+  ],
+  "Brad Boimler, Eager Ensign": [
+   "lifegain"
+  ],
+  "Branching Timeline": [],
+  "Brazen Bluff": [
+   "counterspell"
+  ],
+  "Breeding Pool": [],
+  "Cantankerous Captain": [
+   "evasion"
+  ],
+  "Captain Benjamin Sisko": [
+   "tokens"
+  ],
+  "Captain James T. Kirk": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Captain Jean-Luc Picard": [
+   "tokens"
+  ],
+  "Captain Jonathan Archer": [
+   "tokens"
+  ],
+  "Captain Kathryn Janeway": [
+   "mana"
+  ],
+  "Captain Michael Burnham": [],
+  "Captain Pike, Fullness of Time": [],
+  "Captain's Tutelage": [
+   "trick"
+  ],
+  "Cardassia Prime": [
+   "mana",
+   "lifegain"
+  ],
+  "Cetacean Ops": [],
+  "Cha'DIch Investigator": [
+   "tokens"
+  ],
+  "Class-F Shuttlecraft": [
+   "mana"
+  ],
+  "Cleveland Booker, Empath": [
+   "tokens"
+  ],
+  "Cloak and Phaser": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Cloistered Telepath": [
+   "card_advantage"
+  ],
+  "Cold-Blooded Crew": [
+   "evasion"
+  ],
+  "Collation Trimatrix": [
+   "card_advantage"
+  ],
+  "Collective Drone": [],
+  "Combadge": [],
+  "Command Decision": [
+   "removal",
+   "card_advantage"
+  ],
+  "Command Subadjunct": [],
+  "Commander Raffi Musiker": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Common Goal": [],
+  "Conquest Mission": [
+   "tokens"
+  ],
+  "Consider the Prime Directive": [
+   "card_advantage",
+   "counterspell",
+   "tempo"
+  ],
+  "Constable Odo": [
+   "card_advantage"
+  ],
+  "Crystalline Entity": [
+   "sweeper",
+   "evasion"
+  ],
+  "Culber and Stamets, Star-Crossed": [
+   "mana"
+  ],
+  "Cybernetic Specialist": [],
+  "D'Ghor Bloodletter": [
+   "sweeper"
+  ],
+  "D'Vana Tendi, Optimistic Ensign": [],
+  "D-7 Battle Cruiser": [
+   "tokens"
+  ],
+  "DOT-7 Repair Squad": [
+   "evasion"
+  ],
+  "Dahar Master": [
+   "removal"
+  ],
+  "Dal R'El, Augment Orphan": [
+   "card_advantage",
+   "mana"
+  ],
+  "Daniels, Temporal Agent": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Data, New Life": [
+   "card_advantage"
+  ],
+  "Dathon and Picard at El-Adrel": [
+   "removal",
+   "trick"
+  ],
+  "Dathon, His Heart Open": [
+   "card_advantage"
+  ],
+  "David and Carol Marcus, Creators": [
+   "mana"
+  ],
+  "De-evolve": [],
+  "Deanna Troi, Psychic Counsel": [],
+  "Death Is Irrelevant": [],
+  "Deep Space 9": [],
+  "Deep Space Scan": [
+   "card_advantage"
+  ],
+  "Dominion Assault Force": [],
+  "Dominion Infiltration": [
+   "tokens"
+  ],
+  "Dominion Saboteur": [],
+  "Dominion Supervisor": [],
+  "Dr. Beverly Crusher": [],
+  "Dr. Joseph M'Benga": [],
+  "Dr. Leonard \"Bones\" McCoy": [],
+  "Dr. McCoy, Surly Surgeon": [],
+  "Earth, Sector 001": [
+   "mana",
+   "lifegain"
+  ],
+  "Eject the Warp Core": [
+   "removal"
+  ],
+  "Elim Garak, Simple Tailor": [
+   "evasion",
+   "lifegain"
+  ],
+  "Emergency Holographic Crew": [
+   "card_advantage"
+  ],
+  "Emergency Medical Hologram": [
+   "lifegain"
+  ],
+  "Encounter the Unknown": [
+   "sweeper",
+   "card_advantage"
+  ],
+  "Energize": [
+   "tempo"
+  ],
+  "Engineered Explosives": [],
+  "Ensign Pavel Chekov": [],
+  "Enterprise NX-01": [],
+  "Erica Ortegas, Plucky Pilot": [],
+  "Excalbian Gamemaster": [
+   "tokens"
+  ],
+  "Exploratory Mission": [
+   "mana"
+  ],
+  "Federation Field Medic": [
+   "card_advantage"
+  ],
+  "Federation Outpost": [
+   "mana",
+   "lifegain"
+  ],
+  "Federation Probe": [
+   "evasion"
+  ],
+  "Federation Resupply": [],
+  "Ferenginar": [
+   "mana",
+   "lifegain"
+  ],
+  "Final Frontier": [
+   "mana"
+  ],
+  "First Contact": [
+   "lifegain"
+  ],
+  "Free Borg Revolutionaries": [],
+  "Fugitive Listener": [],
+  "Gabriel Lorca, Mirror Menace": [
+   "card_advantage",
+   "evasion"
+  ],
+  "Gaseous Anomaly": [
+   "card_advantage",
+   "mana"
+  ],
+  "General Chang, Cold Warrior": [],
+  "Genesis Device": [
+   "mana"
+  ],
+  "Genesis Effect": [
+   "removal",
+   "mana"
+  ],
+  "Georgiou, Terran Emperor": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Ghost of Illyria": [
+   "evasion"
+  ],
+  "Godless Shrine": [],
+  "Gowron, Eager for Battle": [
+   "card_advantage"
+  ],
+  "Grand Nagus Zek": [
+   "mana"
+  ],
+  "Gray and Adira, Forever Joined": [
+   "tokens"
+  ],
+  "Guidance Failure": [
+   "removal"
+  ],
+  "Gul Dukat, Colonial Prefect": [
+   "evasion"
+  ],
+  "Gwyndala, the Progeny": [],
+  "H.M.S. Bounty, Unlikely Timeship": [
+   "card_advantage"
+  ],
+  "Hallowed Fountain": [],
+  "He's Dead, Jim": [
+   "removal"
+  ],
+  "Hemmer, Fixing What Is Broken": [
+   "card_advantage"
+  ],
+  "Highly Illogical": [
+   "counterspell"
+  ],
+  "Hit It!": [],
+  "Hive Mind Coprocessor": [
+   "card_advantage"
+  ],
+  "Holo-Engineer": [
+   "tokens"
+  ],
+  "Hologram Janeway": [],
+  "Hologram Stalker": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Horta": [],
+  "Hoshi Sato, Exolinguist": [],
+  "Humpback Whales": [],
+  "I'm a Doctor, Not a . . .": [
+   "trick"
+  ],
+  "Impossible Choice": [
+   "removal",
+   "card_advantage"
+  ],
+  "In the Pale Moonlight": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Infinite Diversity": [],
+  "Interstellar Effigy": [
+   "tempo"
+  ],
+  "Isolinear Processor": [
+   "card_advantage",
+   "mana"
+  ],
+  "Jadzia Dax, Living Legacy": [],
+  "Jake Sisko, War Correspondent": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Jett Reno, Problem Solver": [
+   "card_advantage"
+  ],
+  "Kai Winn, Faithless Leader": [],
+  "Khaaaaaaaaaaaannn!": [
+   "removal"
+  ],
+  "Khan, Despot by Design": [],
+  "Khan, Vengeful Heart": [
+   "card_advantage"
+  ],
+  "Kira Nerys, Firebrand": [],
+  "Kirk, Commanding Officer": [
+   "card_advantage"
+  ],
+  "Kobayashi Maru Scenario": [
+   "card_advantage",
+   "tokens"
+  ],
+  "L'Rell, Fierce Visionary": [
+   "tokens"
+  ],
+  "La'An Noonien-Singh, Security": [],
+  "Lieutenant Commander Data": [
+   "card_advantage"
+  ],
+  "Live Long and Prosper": [
+   "card_advantage"
+  ],
+  "Locutus, the One Who Speaks": [
+   "removal",
+   "lifegain"
+  ],
+  "Lore, Positronic Provocateur": [],
+  "Lt. Cmdr. Geordi La Forge": [],
+  "Lwaxana Troi, Charming Guest": [],
+  "MACO Strike Team": [
+   "tokens"
+  ],
+  "Make It So": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Malfunctioning Holodeck": [
+   "removal"
+  ],
+  "Marooned": [],
+  "Melkotian Adjudicator": [
+   "evasion"
+  ],
+  "Miles O'Brien, Transporter Ops": [
+   "card_advantage"
+  ],
+  "Mirror Universe Intrusion": [
+   "tokens"
+  ],
+  "Moopsy": [],
+  "Mr. Spock, Science Officer": [
+   "card_advantage"
+  ],
+  "Mugato": [],
+  "Munitions Enthusiast": [
+   "removal"
+  ],
+  "Neelix, Moral Support": [],
+  "Ni'Var Science Academy": [
+   "mana"
+  ],
+  "Nog, Ambitious Cadet": [
+   "evasion",
+   "mana"
+  ],
+  "Nyota Uhura, Communications": [
+   "card_advantage"
+  ],
+  "Oberth-Class Starship": [],
+  "Obsidian Order Operative": [
+   "lifegain"
+  ],
+  "Open Communications": [
+   "card_advantage"
+  ],
+  "Organic Avulsion Unit": [
+   "evasion"
+  ],
+  "Orion": [
+   "mana",
+   "lifegain"
+  ],
+  "Overflow Submatrix": [],
+  "Overgrown Tomb": [],
+  "Pah-Wraith": [],
+  "Pattern Buffer Preservation": [
+   "card_advantage"
+  ],
+  "Peace in Our Time": [
+   "card_advantage"
+  ],
+  "Perils of the Past": [
+   "removal",
+   "trick"
+  ],
+  "Pet Sehlat": [],
+  "Phlox, Unorthodox Doctor": [
+   "card_advantage"
+  ],
+  "Photosynthetic Physician": [
+   "tokens"
+  ],
+  "Picard, Leading by Example": [],
+  "Planetary Bombardment": [
+   "removal"
+  ],
+  "Planetary Patrol": [],
+  "Plasma Cascade": [
+   "removal",
+   "card_advantage"
+  ],
+  "Primary Unimatrix Adjunct": [],
+  "Pure Energy": [],
+  "Q Continuum": [
+   "mana"
+  ],
+  "Q, Stacking the Deck": [],
+  "Qo'noS": [
+   "mana",
+   "lifegain"
+  ],
+  "Quark's Bar": [
+   "mana"
+  ],
+  "Quark, Humble Proprietor": [
+   "mana"
+  ],
+  "Ravenous Cosmozoan": [
+   "evasion"
+  ],
+  "Reckless Impulse": [
+   "card_advantage"
+  ],
+  "Red Alert!": [
+   "trick"
+  ],
+  "Relentless Drednok": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Replicator": [],
+  "Resistance Is Futile": [
+   "removal"
+  ],
+  "Risa": [
+   "mana",
+   "lifegain"
+  ],
+  "Rogue Artificial Intelligence": [
+   "lifegain"
+  ],
+  "Rok-Tahk, Budding Scientist": [
+   "mana",
+   "tokens"
+  ],
+  "Romulan Bird-of-Prey": [],
+  "Romulus": [
+   "mana",
+   "lifegain"
+  ],
+  "Rules of Acquisition": [
+   "card_advantage"
+  ],
+  "Rutherford, Upgraded Ensign": [
+   "card_advantage"
+  ],
+  "Saavik, Stoic Student": [
+   "removal"
+  ],
+  "Sacred Foundry": [],
+  "Salt Vampire": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Sarcophagus, Ship of the Dead": [],
+  "Sarek, Federation Ambassador": [
+   "card_advantage"
+  ],
+  "Saru, Unthreatened": [
+   "trick"
+  ],
+  "Saurian Explorer": [
+   "mana"
+  ],
+  "Savvy Profiteer": [
+   "mana"
+  ],
+  "Scotty, Miracle Worker": [],
+  "Sela, Tal Shiar Paradox": [
+   "tokens"
+  ],
+  "Set Phasers to . . .": [
+   "removal"
+  ],
+  "Seven of Nine": [
+   "card_advantage"
+  ],
+  "Seven of Nine, Unassimilated": [
+   "card_advantage"
+  ],
+  "Shields Up!": [
+   "trick"
+  ],
+  "Shuttle Ace": [
+   "evasion",
+   "lifegain"
+  ],
+  "Sickbay": [
+   "lifegain"
+  ],
+  "Silicate Surveyor": [
+   "card_advantage"
+  ],
+  "Spatial Anomaly": [
+   "removal",
+   "mana"
+  ],
+  "Species 8472": [
+   "evasion"
+  ],
+  "Spock, Always Your Friend": [
+   "card_advantage"
+  ],
+  "Stable Wormhole": [
+   "mana"
+  ],
+  "Starfleet Academy": [
+   "mana"
+  ],
+  "Starfleet Security": [
+   "card_advantage"
+  ],
+  "Starfleet Spanner Jockey": [],
+  "Steam Vents": [],
+  "Stomping Ground": [],
+  "Storied Veteran": [],
+  "Stray from History": [],
+  "Subcommander T'Pol": [
+   "tempo"
+  ],
+  "Subspace Anomaly": [
+   "mana",
+   "tokens"
+  ],
+  "Sulu, Space Swashbuckler": [
+   "card_advantage"
+  ],
+  "Support Mission": [],
+  "Suurok-Class Science Vessel": [
+   "card_advantage"
+  ],
+  "Suus Mahna Practitioner": [],
+  "Sylvia Tilly, Joy of Discovery": [],
+  "Syndicate Liquidators": [],
+  "Tactical Officer": [],
+  "Tal Shiar Analyst": [],
+  "Tal Shiar Operative": [],
+  "Targ Wrangler": [
+   "evasion"
+  ],
+  "Tasha Yar, Out of Time": [
+   "card_advantage",
+   "tokens"
+  ],
+  "Tea, Earl Grey, Hot": [
+   "card_advantage",
+   "lifegain"
+  ],
+  "Tell Me What You See": [
+   "card_advantage"
+  ],
+  "Temple Garden": [],
+  "Temporal Anomaly": [
+   "mana"
+  ],
+  "Temporal Conqueror": [
+   "card_advantage",
+   "mana"
+  ],
+  "Tenacious Drone": [
+   "tokens"
+  ],
+  "Test of Conviction": [
+   "card_advantage"
+  ],
+  "Test of Courage": [
+   "removal",
+   "lifegain"
+  ],
+  "Test of Identity": [
+   "card_advantage",
+   "trick"
+  ],
+  "Test of Loyalty": [
+   "card_advantage"
+  ],
+  "Test of Priorities": [
+   "card_advantage",
+   "trick"
+  ],
+  "The Caretaker": [],
+  "The City on the Edge of Forever": [
+   "card_advantage",
+   "tokens",
+   "lifegain"
+  ],
+  "The Destruction of Praxis": [
+   "tokens"
+  ],
+  "The Doctor, EMH": [],
+  "The Duras Sisters": [
+   "tokens"
+  ],
+  "The Holodeck": [],
+  "The Inner Light": [
+   "mana"
+  ],
+  "The Measure of a Man": [
+   "removal",
+   "card_advantage",
+   "lifegain"
+  ],
+  "The Naked Time": [],
+  "The Needs of the Many": [
+   "trick"
+  ],
+  "The Traveler": [],
+  "The Unicomplex": [
+   "mana"
+  ],
+  "The Wrath of Khan": [
+   "removal",
+   "card_advantage"
+  ],
+  "There's Coffee in that Nebula": [],
+  "Those Old Scientists": [
+   "card_advantage"
+  ],
+  "Transporter Malfunction": [
+   "removal"
+  ],
+  "Tricorder": [],
+  "Troubling Tribbles": [
+   "tokens"
+  ],
+  "Type-2 Phaser": [],
+  "U.S.S. Cerritos, Following Up": [
+   "tokens"
+  ],
+  "U.S.S. Discovery, at Black Alert": [],
+  "U.S.S. Enterprise-A, Free Spirit": [
+   "tokens",
+   "lifegain"
+  ],
+  "U.S.S. Enterprise-D, Galaxy-Class": [
+   "card_advantage"
+  ],
+  "U.S.S. Excelsior, Cutting Edge": [
+   "removal"
+  ],
+  "U.S.S. Reliant, From Hell's Heart": [],
+  "U.S.S. Voyager, Lone Wanderer": [],
+  "Una Chin-Riley, Number One": [],
+  "Unexplored Territory": [
+   "mana"
+  ],
+  "V'Ger, the Intruder": [
+   "card_advantage",
+   "evasion"
+  ],
+  "Vash, Freelance Archaeologist": [
+   "card_advantage"
+  ],
+  "Vengeance Mission": [],
+  "Vexing Drone": [],
+  "Vulcan": [
+   "mana",
+   "lifegain"
+  ],
+  "Vulcan Mind-Meld": [],
+  "Warp Core": [
+   "mana"
+  ],
+  "Warp Speed": [
+   "card_advantage",
+   "mana"
+  ],
+  "Watery Grave": [],
+  "Wesley Crusher, Starfleet Cadet": [
+   "card_advantage",
+   "counterspell",
+   "evasion",
+   "tempo"
+  ],
+  "Will Riker, First in the Field": [],
+  "Worf, Honor-Bound Warrior": [],
+  "Worf, Intelligence Contractor": [],
+  "Xenobotanist": [
+   "mana"
+  ],
+  "Xindi Surveyors": [],
+  "Year of Hell": [
+   "card_advantage"
+  ],
+  "Zefram Cochrane, Warp Pioneer": [],
+  "Zero, Incorporeal Sensate": [
+   "lifegain"
+  ]
+ },
+ "flash": [
+  "Captain's Tutelage",
+  "Cloistered Telepath",
+  "Dr. Leonard \"Bones\" McCoy",
+  "Saavik, Stoic Student",
+  "Saru, Unthreatened",
+  "Subcommander T'Pol",
+  "Wesley Crusher, Starfleet Cadet"
+ ],
+ "mana_sources": {
+  "Class-F Shuttlecraft": {
+   "colours": "WUBRG",
+   "amount": 1
+  },
+  "Isolinear Processor": {
+   "colours": "",
+   "amount": 1
+  },
+  "Savvy Profiteer": {
+   "colours": "R",
+   "amount": 1
+  },
+  "Xenobotanist": {
+   "colours": "WUBRG",
+   "amount": 1
+  }
+ },
+ "arena_ids": {},
+ "arena_sets": [
+  "TRK"
+ ],
+ "generated_at": "2026-11-14T10:42:22Z"
+}
